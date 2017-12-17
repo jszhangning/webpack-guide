@@ -7,7 +7,9 @@ Webpack简易教程，从一无所知到脱坑，一边讲解，一边搭建一�
 - 支持Babel、SASS、CSS3自动添加前缀、base64、字体图标、视频文件、音频文件、代码调试、提取公共代码等常用依赖配置
 - 第三方资源与业务代码分离
 
-教程文件在`README`文件中:
+顺便推广下刚开始搞的前端群，快来加入我们吧：[145676463](//shang.qq.com/wpa/qunwpa?idkey=e406b1b908fe4cbde29e287720861ae3d07ac9731e43bba915cf5b52ae7dea03)
+
+## 教程文件在`README`文件中:
 
 [1、初入webpack](https://github.com/kejiaren/webpack-guid/blob/master/README/1%E3%80%81%E5%88%9D%E5%85%A5webpack.MD)
 
