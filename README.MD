@@ -1,4 +1,4 @@
-# Webpack教程
+# Webpack简易教程
 
 > 教程分为两版，分别是koa、express版本
 >
