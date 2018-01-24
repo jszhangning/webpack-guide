@@ -1,6 +1,8 @@
 # Webpack教程
 
-> 教程分为两版，分别是koa、express版本，一一对应相对目录，可根据自需所取
+> 教程分为两版，分别是koa、express版本
+>
+> 如有疑问，可直接联系本人QQ(80232265)或加QQ群([145676463](//shang.qq.com/wpa/qunwpa?idkey=e406b1b908fe4cbde29e287720861ae3d07ac9731e43bba915cf5b52ae7dea03))~
 
 Webpack简易教程，从一无所知到脱坑，一边讲解，一边搭建一个完整可用脚手架
 - 本地服务器基于koa/express框架搭建
@@ -10,7 +12,7 @@ Webpack简易教程，从一无所知到脱坑，一边讲解，一边搭建一�
 - 支持Babel、SASS、CSS3自动添加前缀、base64、字体图标、视频文件、音频文件、代码调试、提取公共代码等常用依赖配置
 - 第三方资源与业务代码分离
 
-如有疑问，可直接联系本人(QQ: 80232265)或加QQ群([145676463](//shang.qq.com/wpa/qunwpa?idkey=e406b1b908fe4cbde29e287720861ae3d07ac9731e43bba915cf5b52ae7dea03))都可~
+
 
 ## 教程内容:
 
